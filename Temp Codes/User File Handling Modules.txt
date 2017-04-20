@@ -1,4 +1,0 @@
-Team 46	Users File Handling	File Handling Module	Pradyumn Agrawal	15UCS096	CSE	geniuspradyumn@gmail.com
-		Database Managment Module	Ashish Karel	15UCS027	CSE	ashishbkarel@gmail.com
-		Authentication Module	Nitin Chaudhary	15UCS088	CSE	nitinc61@gmail.com
-		User Interface Module	Syed Zayed	15UCC040	CCE	syedzayedparker@gmail.com
